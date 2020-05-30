@@ -19,6 +19,6 @@ your application.
 As this was lifted from the SAML2 example provided by Spring it caused me to
 drink heavily wondering why I couldn't integrate SAML2 into my application
 yet the sample was bare bones and worked. This led me to painfully disable
-dependencies tracking it down to the actuator and it's insane
-auto-configuration rules.
+dependencies tracking it down to the actuator and it's auto-configuration
+rules.
 
